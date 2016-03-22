@@ -1,3 +1,23 @@
-.green-background{
+#green {
+  background-color: orange;
+}
+
+#red {
+  background-color: purple;
+}
+
+#yellow {
+  background-color: pink;
+}
+
+.green-background {
   background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
 }
